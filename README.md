@@ -14,18 +14,27 @@
    * (A)  create original products using a variety of resources;
    > Students will be able to build a structure such as a house, farm, dungeon or trap using appropriate materials. Student will also be able to write turtle programs and create their own mods and texture packs.
 
-   * (B)  analyze trends and forecast possibilities, developing steps for the creation of an innovative process or product; 
-   > 
+   * (B)  analyze trends and forecast possibilities, developing steps for the creation of an innovative process or product 
+   > Students will be able to breed horses, predicting the color of horse that will spawn.
 
-   * (C)  use virtual environments to explore systems and issues.
+   * (C)  use virtual environments to explore systems and issues.;
+   > Students will explore premade maps to explore actual buildings, cities, or other structures.
+
 
 (2)  Communication and collaboration. The student collaborates and communicates both locally and globally using digital tools and resources to reinforce and promote learning. The student is expected to:
-   (A)  draft, edit, and publish products in different media individually and collaboratively;
-   (B)  use font attributes, color, white space, and graphics to ensure that products are appropriate for multiple communication media, including monitor display, web, and print;
-   (C)  collaborate effectively through personal learning communities and social environments;
-   (D)  select and use appropriate collaboration tools;
-   (E)  evaluate the product for relevance to the assignment or task; and
-   (F)  perform basic software application functions, including opening applications and creating, modifying, printing, and saving files.
+   * (A)  draft, edit, and publish products in different media individually and collaboratively;
+   > Students will be able to plan a structure either individually, or collaborativly, create the structure game, and present their project to the class or publish it online.
+   
+   * (B)  use font attributes, color, white space, and graphics to ensure that products are appropriate for multiple communication media, including monitor display, web, and print;
+   > Students will be able to publish a description of creation in game, using programs such as word, youtube, padlet, or edmodo. 
+
+   * (C)  collaborate effectively through personal learning communities and social environments;
+   > Students will participe and use appropriate etiquette on servers and forums.
+
+   * (D)  select and use appropriate collaboration tools;
+   > 
+   * (E)  evaluate the product for relevance to the assignment or task; and
+   * (F)  perform basic software application functions, including opening applications and creating, modifying, printing, and saving files.
 
 (3)  Research and information fluency. The student acquires and evaluates digital content. The student is expected to:
    (A)  use various search strategies such as keyword(s); the Boolean identifiers and, or, and not; and other strategies appropriate to specific search engines;
