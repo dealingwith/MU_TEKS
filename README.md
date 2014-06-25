@@ -32,9 +32,14 @@
    > Students will participe and use appropriate etiquette on servers and forums.
 
    * (D)  select and use appropriate collaboration tools;
-   > 
-   * (E)  evaluate the product for relevance to the assignment or task; and
+   > Students will use programs such as GoogleDocs, Skype, and IRC for collaboration with their peers on Minecraft projects.
+
+   * (E)  evaluate the product for relevance to the assignment or task;
+   > Students will asssess their projects with rubrics made by the class.
+
    * (F)  perform basic software application functions, including opening applications and creating, modifying, printing, and saving files.
+   > Students will be able to open/save game files, create new worlds with specific preferences or seeds, edit world settings, and print screenshots. Students will be able to program simple mods (modifications to the game itself) and customize texture packs and skins. 
+
 
 (3)  Research and information fluency. The student acquires and evaluates digital content. The student is expected to:
    (A)  use various search strategies such as keyword(s); the Boolean identifiers and, or, and not; and other strategies appropriate to specific search engines;
