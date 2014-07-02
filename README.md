@@ -68,13 +68,26 @@
    > TBA
 
 (5)  Digital citizenship. The student practices safe, responsible, legal, and ethical behavior while using digital tools and resources. The student is expected to:
-   (A)  adhere to acceptable use policies reflecting positive social behavior in the digital environment;
-   (B)  respect the intellectual property of others;
-   (C)  abide by copyright law and the Fair Use Guidelines for Educational Multimedia;
-   (D)  protect and honor the individual privacy of oneself and others;
-   (E)  follow the rules of digital etiquette;
-   (F)  practice safe, legal, and responsible use of information and technology; and
-   (G)  comply with fair use guidelines and digital safety rules.
+   * (A)  adhere to acceptable use policies reflecting positive social behavior in the digital environment;
+   > Students will create a culturre of cooperation, set of rules, and server etiquette.
+   
+   * (B)  respect the intellectual property of others;
+   > Students will only deconstruct areas that they created and will refrain from "griefing"
+
+   * (C)  abide by copyright law and the Fair Use Guidelines for Educational Multimedia;
+   >
+   
+   * (D)  protect and honor the individual privacy of oneself and others;
+   > Students will create a culturre of cooperation, set of rules, and server etiquette.
+   
+   * (E)  follow the rules of digital etiquette;
+   > Students will create a culturre of cooperation, set of rules, and server etiquette.
+   
+   * (F)  practice safe, legal, and responsible use of information and technology; and
+   >
+   
+   * (G)  comply with fair use guidelines and digital safety rules.
+   >
 
 (6)  Technology operations and concepts. The student demonstrates knowledge and appropriate use of technology systems, concepts, and operations. The student is expected to:
    (A)  demonstrate an understanding of technology concepts, including terminology for the use of operating systems, network systems, virtual systems, and learning systems appropriate for Grades 3-5 learning;
