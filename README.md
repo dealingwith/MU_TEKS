@@ -23,29 +23,36 @@
 
 (2)  Communication and collaboration. The student collaborates and communicates both locally and globally using digital tools and resources to reinforce and promote learning. The student is expected to:
    * (A)  draft, edit, and publish products in different media individually and collaboratively;
-   > Students will be able to plan a structure either individually, or collaborativly, create the structure game, and present their project to the class or publish it online.
+   > Students will be able to plan a structure either individually, or collaboratively, create the structure game, and present their project to the class or publish it online.
    
    * (B)  use font attributes, color, white space, and graphics to ensure that products are appropriate for multiple communication media, including monitor display, web, and print;
    > Students will be able to publish a description of creation in game, using programs such as word, youtube, padlet, or edmodo. 
 
    * (C)  collaborate effectively through personal learning communities and social environments;
-   > Students will participe and use appropriate etiquette on servers and forums.
+   > Students will participle and use appropriate etiquette on servers and forums.
 
    * (D)  select and use appropriate collaboration tools;
    > Students will use programs such as GoogleDocs, Skype, and IRC for collaboration with their peers on Minecraft projects.
 
    * (E)  evaluate the product for relevance to the assignment or task;
-   > Students will asssess their projects with rubrics made by the class.
+   > Students will asses their projects with rubrics made by the class.
 
    * (F)  perform basic software application functions, including opening applications and creating, modifying, printing, and saving files.
    > Students will be able to open/save game files, create new worlds with specific preferences or seeds, edit world settings, and print screenshots. Students will be able to program simple mods (modifications to the game itself) and customize texture packs and skins. 
 
 
 (3)  Research and information fluency. The student acquires and evaluates digital content. The student is expected to:
-   (A)  use various search strategies such as keyword(s); the Boolean identifiers and, or, and not; and other strategies appropriate to specific search engines;
-   (B)  collect and organize information from a variety of formats, including text, audio, video, and graphics;
-   (C)  validate and evaluate the relevance and appropriateness of information; and
-   (D)  acquire information appropriate to specific tasks.
+   * (A)  use various search strategies such as keyword(s); the Boolean identifiers and, or, and not; and other strategies appropriate to specific search engines;
+   > Students will be able to use search engines to search for recipes, ideas, or various other resources.
+   
+   * (B)  collect and organize information from a variety of formats, including text, audio, video, and graphics;
+   > Students will be able to display information with applications such as Padlet, Google Drive, Pinterest, YouTube, and Microsoft Office.
+   
+   * (C)  validate and evaluate the relevance and appropriateness of information;
+   > Students will assess information gathered with with cross referencing other sources and their peers.
+   
+   * (D)  acquire information appropriate to specific tasks.
+   > Students will be able to find specific imformation reguarding recipes and tutorials using search engines and wikis. 
 
 (4)  Critical thinking, problem solving, and decision making. The student researches and evaluates projects using digital tools and resources. The student is expected to:
    (A)  identify information regarding a problem and explain the steps toward the solution;
