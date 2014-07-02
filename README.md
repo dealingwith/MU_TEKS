@@ -55,10 +55,17 @@
    > Students will be able to find specific imformation reguarding recipes and tutorials using search engines and wikis. 
 
 (4)  Critical thinking, problem solving, and decision making. The student researches and evaluates projects using digital tools and resources. The student is expected to:
-   (A)  identify information regarding a problem and explain the steps toward the solution;
-   (B)  collect, analyze, and represent data to solve problems using tools such as word processing, databases, spreadsheets, graphic organizers, charts, multimedia, simulations, models, and programming languages;
-   (C)  evaluate student-created products through self and peer review for relevance to the assignment or task; and
-   (D)  evaluate technology tools applicable for solving problems.
+   * (A)  identify information regarding a problem and explain the steps toward the solution;
+   > Students will be able to identify a problem such as efficiently mining and farming, redstone, or architectural issues and explain to a peer how to execute a solution.
+   
+   * (B)  collect, analyze, and represent data to solve problems using tools such as word processing, databases, spreadsheets, graphic organizers, charts, multimedia, simulations, models, and programming languages;
+   > Students will be able to create a chart showing what building materials other students choose, graphic organizers comparing those materials, video or written tutorials, models of actual buildings and logic gates, and programs for turtles and computers.
+
+   * (C)  evaluate student-created products through self and peer review for relevance to the assignment or task; 
+   >   Students will be able to evaluate projects based on rubrics created by the class.
+
+   * (D)  evaluate technology tools applicable for solving problems.
+   > TBA
 
 (5)  Digital citizenship. The student practices safe, responsible, legal, and ethical behavior while using digital tools and resources. The student is expected to:
    (A)  adhere to acceptable use policies reflecting positive social behavior in the digital environment;
