@@ -84,24 +84,26 @@
    > Students will create a culturre of cooperation, set of rules, and server etiquette.
    
    * (F)  practice safe, legal, and responsible use of information and technology; and
-   >
+   > Students will create a culturre of cooperation, set of rules, and server etiquette.
    
    * (G)  comply with fair use guidelines and digital safety rules.
-   >
+   > Students will create a culturre of cooperation, set of rules, and server etiquette.
+   
 
 (6)  Technology operations and concepts. The student demonstrates knowledge and appropriate use of technology systems, concepts, and operations. The student is expected to:
    * (A)  demonstrate an understanding of technology concepts, including terminology for the use of operating systems, network systems, virtual systems, and learning systems appropriate for Grades 3-5 learning;
    > Students will be able to build in-game Computers and Turtles, and write programs for them using the Lua programming language.
    
    * (B)  manipulate files using appropriate naming conventions; file management, including folder structures and tagging; and file conversions;
-   >
+   >Students will be able to change .txt files to .lang files and save images as .png. Students will be able to navigate and saves files in appropriate folders such as rom, programs, and LUA.
    
    * (C)  navigate systems and applications accessing peripherals both locally and remotely;
-   >
+   >  Students will be able to run a program and navigate computer systems by using ComputerCraft. 
    
    * (D)  troubleshoot minor technical problems with hardware and software using available resources such as online help and knowledge bases; and
-   >
+   > Students will be able to troubleshoot using resources such as wikis and forums. 
 
    * (E)  use proper touch keyboarding techniques and ergonomic strategies such as correct hand and body positions and smooth and rhythmic keystrokes.
+   >  Students will be able to type using correct hand and body positions, and also maneuver throuhg the game using WASD and mouse positions.  
 
 Source: The provisions of this §126.7 adopted to be effective September 26, 2011, 36 TexReg 6263
