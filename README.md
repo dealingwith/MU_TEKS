@@ -90,10 +90,18 @@
    >
 
 (6)  Technology operations and concepts. The student demonstrates knowledge and appropriate use of technology systems, concepts, and operations. The student is expected to:
-   (A)  demonstrate an understanding of technology concepts, including terminology for the use of operating systems, network systems, virtual systems, and learning systems appropriate for Grades 3-5 learning;
-   (B)  manipulate files using appropriate naming conventions; file management, including folder structures and tagging; and file conversions;
-   (C)  navigate systems and applications accessing peripherals both locally and remotely;
-   (D)  troubleshoot minor technical problems with hardware and software using available resources such as online help and knowledge bases; and
-   (E)  use proper touch keyboarding techniques and ergonomic strategies such as correct hand and body positions and smooth and rhythmic keystrokes.
+   * (A)  demonstrate an understanding of technology concepts, including terminology for the use of operating systems, network systems, virtual systems, and learning systems appropriate for Grades 3-5 learning;
+   > Students will be able to build in-game Computers and Turtles, and write programs for them using the Lua programming language.
+   
+   * (B)  manipulate files using appropriate naming conventions; file management, including folder structures and tagging; and file conversions;
+   >
+   
+   * (C)  navigate systems and applications accessing peripherals both locally and remotely;
+   >
+   
+   * (D)  troubleshoot minor technical problems with hardware and software using available resources such as online help and knowledge bases; and
+   >
+
+   * (E)  use proper touch keyboarding techniques and ergonomic strategies such as correct hand and body positions and smooth and rhythmic keystrokes.
 
 Source: The provisions of this §126.7 adopted to be effective September 26, 2011, 36 TexReg 6263
