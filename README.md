@@ -25,31 +25,40 @@
   > Students will put pictures in sequential order to acomplish a task such as growing wheat or crafting an item.
 
 * (E)  evaluate and modify steps to accomplish a task.
-  > 
+  > Students will be able to fine more efficient ways to accomplish a task such as growing wheat or craafting an item.
 
 (2)  Communication and collaboration. The student collaborates and communicates both locally and globally using digital tools and resources to reinforce and promote learning. The student is expected to:
 
  * (A)  use communication tools that allow for anytime, anywhere access to interact, collaborate, or publish with peers locally and globally;
+  > Students will create a structure and present their creating using programs such as skype, forums, youtube, padlet, or edmodo.
 
 * (B)  participate in digital environments to develop cultural understanding by interacting with learners of multiple cultures;
+  > Students will create a video tutorial and share it on youtube. 
 
 * (C)  format digital information, including font attributes, color, white space, graphics, and animation, for a defined audience and communication medium; and
+  >  Students will be able to publish a description of creation in game, using programs such as word, youtube, padlet, or edmodo.
 
 * (D)  select, store, and deliver products using a variety of media, formats, devices, and virtual environments.
+  > Students will be able to store files in folders, save programs under correct directories using Computer Craft, and send materials through various outlets such as email and blackboard.
 
 (3)  Research and information fluency. The student acquires and evaluates digital content. The student is expected to:
 
 * (A)  use search strategies to access information to guide inquiry;
+  > Students will use search engines and find commands to aquire information.
 
 * (B)  use research skills to build a knowledge base regarding a topic, task, or assignment; and
+  > Students will use wikis to find crafting recepies and tutorials.
 
 * (C)  evaluate the usefulness of acquired digital content.
+  > Students will use a rubric to assess how helpful a resource is.
 
 (4)  Critical thinking, problem solving, and decision making. The student applies critical-thinking skills to solve problems, guide research, and evaluate projects using digital tools and resources. The student is expected to:
 
 * (A)  identify what is known and unknown and what needs to be known regarding a problem and explain the steps to solve the problem;
+  > Students will create programs for turtles using Computer Craft by using pre-existing code and modifing it. Students will then create a tutorial for other students to use. 
 
 * (B)  evaluate the appropriateness of a digital tool to achieve the desired product;
+  > Students will select a tool for various tasks in the minecraft world, such as pickaxe, axe, shovel, sword, or bow and arrow.
 
 * (C)  evaluate products prior to final submission; and
 
