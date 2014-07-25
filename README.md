@@ -61,12 +61,15 @@
   > Students will select a tool for various tasks in the minecraft world, such as pickaxe, axe, shovel, sword, or bow and arrow.
 
 * (C)  evaluate products prior to final submission; and
+  > TBD
 
 * (D)  collect, analyze, and represent data using tools such as word processing, spreadsheets, graphic organizers, charts, multimedia, simulations, models, and programming languages.
+  > Students will be able to create a chart showing what building materials other students choose, graphic organizers comparing those materials, video or written tutorials, models of actual buildings and logic gates, and programs for turtles and computers.
 
 (5)  Digital citizenship. The student practices safe, responsible, legal, and ethical behavior while using digital tools and resources. The student is expected to:
 
 * (A)  adhere to acceptable use policies reflecting appropriate behavior in a digital environment;
+  > Students will create a culturre of cooperation, set of rules, and server etiquette.
 
 * (B)  comply with acceptable digital safety rules, fair use guidelines, and copyright laws; and
 
@@ -75,18 +78,25 @@
 (6)  Technology operations and concepts. The student demonstrates knowledge and appropriate use of technology systems, concepts, and operations. The student is expected to:
 
 * (A)  use appropriate terminology regarding basic hardware, software applications, programs, networking, virtual environments, and emerging technologies;
+  > Students will be able to build in-game Computers and Turtles, and write programs for them using the Lua programming language.
 
 * (B)  use appropriate digital tools and resources for storage, access, file management, collaboration, and designing solutions to problems;
+  > Students will use floppy disks to transport programs ingame and use items such as USB drives and 
 
 * (C)  perform basic software application functions, including opening an application and creating, modifying, printing, and saving files;
+  > Students will be able to open Minecraft, create new worlds with various settings, rename and save thsoe words, and print screen shots.
 
 * (D)  use a variety of input, output, and storage devices;
+  > Students will use floppy disks to transport programs ingame and use items such as USB drives and 
 
 * (E)  use proper keyboarding techniques such as ergonomically correct hand and body positions appropriate for Kindergarten-Grade 2 learning;
+  > Students will be able to type using correct hand and body positions, and also maneuver throuhg the game using WASD and mouse positions.
 
 * (F)  demonstrate keyboarding techniques for operating the alphabetic, numeric, punctuation, and symbol keys appropriate for Kindergarten-Grade 2 learning; and
+  >  Students will use the chat function ingame, use commands, and write code for turtles using Computer Craft.
 
-(G)  use the help feature online and in applications.
+* (G)  use the help feature online and in applications.
+  > Students will use wikis to aide in their crafting.
 
 Source: The provisions of this §126.6 adopted to be effective September 26, 2011, 36 TexReg 6263.
 
